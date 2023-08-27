@@ -1,1 +1,19 @@
+Programas de ejemplo del curso Labo-II-2023
+Luis cardon - 2023
+Esto programas se escribieron para correr en forma autónoma desde la terminal y
+se copiaron a la notebook Juphyter de Colab.
+Puede acceder directamente a colab con el ícono correspondeinte arriba del codigo.
 
+Para poder correrlos en Jupyther-Colab requiere algunos
+pasos adicionales como se muestra en el texto 
+**Funciones y graficos**
+funciones00.py
+funciones0.py
+ejemplo1.py
+funciones.py
+ploteoBasico.py
+ploteoIntermedio.py
+miploteo.py
+**Método de la bisección**
+biseccion-1.py
+prueba-bisec-1.py
